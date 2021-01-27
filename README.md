@@ -1,4 +1,4 @@
-# Paulo Ortolan's github front page
+# Paulo Ortolan's Github front page
 
 Here you will find some util things.
 
